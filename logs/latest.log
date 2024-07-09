@@ -1,0 +1,108 @@
+[00:01:55] [Server thread/INFO]: dreamonovich fell from a high place
+[00:03:38] [Async Chat Thread - #8/INFO]: [Not Secure] <dreamonovich> -400 -2000
+[00:07:39] [User Authenticator #14/INFO]: UUID of player Maver1ckPy is fa80bf82-2c88-3820-8429-047952be0875
+[00:07:39] [Server thread/INFO]: Maver1ckPy joined the game
+[00:07:39] [Server thread/INFO]: Maver1ckPy[/127.0.0.1:43096] logged in with entity id 32461 at ([world]-74.19235424458087, 76.0, -2084.530763111594)
+[00:10:10] [Async Chat Thread - #10/INFO]: [Not Secure] <dreamonovich> -400 -2000
+[00:13:08] [Server thread/INFO]: UltroA15 lost connection: Disconnected
+[00:13:08] [Server thread/INFO]: UltroA15 left the game
+[00:19:18] [Server thread/INFO]: Ivanskor has made the advancement [Enchanter]
+[00:19:19] [Server thread/INFO]: dreamonovich lost connection: Disconnected
+[00:19:19] [Server thread/INFO]: dreamonovich left the game
+[00:19:27] [User Authenticator #15/INFO]: UUID of player dreamonovich is 63087a6a-b56c-3779-b588-83711098d67a
+[00:19:27] [Server thread/INFO]: dreamonovich joined the game
+[00:19:27] [Server thread/INFO]: dreamonovich[/127.0.0.1:34416] logged in with entity id 36184 at ([world_nether]-32.449966955422674, 137.88058717578656, -247.25934598648382)
+[00:19:28] [Server thread/INFO]: dreamonovich fell from a high place
+[00:21:57] [Async Chat Thread - #12/INFO]: [Not Secure] <Ivanskor> -260
+[00:22:17] [Async Chat Thread - #13/INFO]: [Not Secure] <dreamonovich> sv_cheats 1
+[00:25:31] [Async Chat Thread - #14/INFO]: [Not Secure] <Maver1ckPy> -80 33 -447
+[00:32:22] [Server thread/INFO]: Maver1ckPy lost connection: Disconnected
+[00:32:22] [Server thread/INFO]: Maver1ckPy left the game
+[00:35:19] [Async Chat Thread - #16/INFO]: [Not Secure] <Ivanskor> 16 29 -253
+[00:36:08] [User Authenticator #16/INFO]: UUID of player Maver1ckPy is fa80bf82-2c88-3820-8429-047952be0875
+[00:36:08] [Server thread/INFO]: Maver1ckPy joined the game
+[00:36:08] [Server thread/INFO]: Maver1ckPy[/127.0.0.1:35370] logged in with entity id 41736 at ([world_nether]15.801962472806732, 29.64936816403689, -253.89095511708814)
+[00:36:12] [Server thread/INFO]: Maver1ckPy burned to death
+[00:37:45] [Server thread/INFO]: Ivanskor tried to swim in lava
+[00:39:39] [Async Chat Thread - #18/INFO]: [Not Secure] <dreamonovich> 0 -2000
+[00:42:49] [Server thread/INFO]: dreamonovich lost connection: Disconnected
+[00:42:49] [Server thread/INFO]: dreamonovich left the game
+[00:42:56] [User Authenticator #17/INFO]: UUID of player dreamonovich is 63087a6a-b56c-3779-b588-83711098d67a
+[00:42:56] [Server thread/INFO]: dreamonovich joined the game
+[00:42:56] [Server thread/INFO]: dreamonovich[/127.0.0.1:39568] logged in with entity id 46283 at ([world_nether]-11.275398651065201, 31.0, -109.30000001192093)
+[00:42:58] [Server thread/INFO]: dreamonovich lost connection: Disconnected
+[00:42:58] [Server thread/INFO]: dreamonovich left the game
+[00:44:18] [Server thread/INFO]: Maver1ckPy was blown up by Creeper
+[00:46:49] [User Authenticator #18/INFO]: UUID of player dreamonovich52 is 6dc7e218-22a8-3ac9-b5d1-4cbb13f0073a
+[00:46:49] [Server thread/INFO]: dreamonovich52 joined the game
+[00:46:49] [Server thread/INFO]: dreamonovich52[/127.0.0.1:58576] logged in with entity id 47085 at ([world]790.5, 71.0, -1264.5)
+[00:47:39] [Async Chat Thread - #20/INFO]: [Not Secure] <dreamonovich52> -11.275398651065201, 31.0, -109.30000001192093
+[00:47:46] [Server thread/INFO]: dreamonovich52 issued server command: /-10 30 -100
+[00:47:50] [Async Chat Thread - #20/INFO]: [Not Secure] <dreamonovich52> -10 30 -100
+[00:48:23] [Server thread/INFO]: Made dreamonovich52 a server operator
+[00:48:31] [Server thread/INFO]: dreamonovich52 issued server command: /gamemode spectator
+[00:48:31] [Server thread/INFO]: [dreamonovich52: Set own game mode to Spectator Mode]
+[00:48:35] [Server thread/INFO]: Maver1ckPy was slain by Piglin
+[00:48:35] [Server thread/INFO]: dreamonovich52 issued server command: /tp Maver1ckPy
+[00:48:35] [Server thread/INFO]: dreamonovich52 has made the advancement [We Need to Go Deeper]
+[00:48:35] [Server thread/INFO]: [dreamonovich52: Teleported dreamonovich52 to Maver1ckPy]
+[00:48:57] [Server thread/INFO]: dreamonovich52 issued server command: /tp Ivanskor
+[00:48:57] [Server thread/INFO]: [dreamonovich52: Teleported dreamonovich52 to Ivanskor]
+[00:48:57] [Server thread/WARN]: dreamonovich52 moved too quickly! -26.19149439388663,2.505205093412947,-11.118697434174265
+[00:48:57] [Server thread/WARN]: dreamonovich52 moved too quickly! -26.19149439388663,2.505205093412947,-11.118697434174265
+[00:51:28] [Server thread/INFO]: Ivanskor burned to death
+[00:52:32] [Server thread/INFO]: Maver1ckPy burned to death
+[00:54:47] [Server thread/INFO]: dreamonovich52 lost connection: Disconnected
+[00:54:47] [Server thread/INFO]: dreamonovich52 left the game
+[00:55:10] [User Authenticator #19/INFO]: UUID of player dreamonovich52 is 6dc7e218-22a8-3ac9-b5d1-4cbb13f0073a
+[00:55:10] [Server thread/INFO]: dreamonovich52 joined the game
+[00:55:10] [Server thread/INFO]: dreamonovich52[/127.0.0.1:55400] logged in with entity id 50841 at ([world_nether]-13.35988059976623, 32.204054845050024, -107.66570794656295)
+[00:55:40] [Server thread/INFO]: dreamonovich52 issued server command: /tp -11.27539865106520 31.0 -109.30000001192093
+[00:55:40] [Server thread/INFO]: [dreamonovich52: Teleported dreamonovich52 to -11.275399, 31.000000, -109.300000]
+[00:55:45] [Server thread/INFO]: dreamonovich52 lost connection: Disconnected
+[00:55:45] [Server thread/INFO]: dreamonovich52 left the game
+[00:55:52] [User Authenticator #19/INFO]: UUID of player dreamonovich is 63087a6a-b56c-3779-b588-83711098d67a
+[00:55:52] [Server thread/INFO]: dreamonovich joined the game
+[00:55:53] [Server thread/INFO]: dreamonovich[/127.0.0.1:35316] logged in with entity id 51396 at ([world_nether]-11.29623958302852, 31.0, -109.30000001192093)
+[00:56:05] [Server thread/INFO]: dreamonovich burned to death
+[01:01:18] [Server thread/INFO]: Ivanskor has made the advancement [The Parrots and the Bats]
+[01:06:02] [Server thread/INFO]: dreamonovich issued server command: /skin penis
+[01:06:12] [Server thread/INFO]: dreamonovich issued server command: /skin set penis
+[01:06:16] [Server thread/INFO]: dreamonovich issued server command: /skin set penis1
+[01:06:20] [Server thread/INFO]: dreamonovich issued server command: /skin set penis123
+[01:06:29] [Server thread/INFO]: dreamonovich issued server command: /skin set cock
+[01:07:46] [Server thread/INFO]: Maver1ckPy lost connection: Disconnected
+[01:07:46] [Server thread/INFO]: Maver1ckPy left the game
+[01:08:01] [Server thread/INFO]: dreamonovich lost connection: Disconnected
+[01:08:01] [Server thread/INFO]: dreamonovich left the game
+[01:09:04] [Server thread/INFO]: Ivanskor lost connection: Disconnected
+[01:09:04] [Server thread/INFO]: Ivanskor left the game
+[01:09:08] [Server thread/INFO]: Stopping the server
+[01:09:08] [Server thread/INFO]: Stopping server
+[01:09:08] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.1.0
+[01:09:08] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.0.1
+[01:09:08] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling, if this is a reload and you experience issues consider rebooting.
+[01:09:08] [Server thread/INFO]: Saving players
+[01:09:08] [Server thread/INFO]: Saving worlds
+[01:09:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:09:08] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[01:09:08] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[01:09:08] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[01:09:08] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 102 entity chunks, 0 poi chunks in world 'world' in 0,08s
+[01:09:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:09:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[01:09:09] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[01:09:09] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[01:09:09] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[01:09:09] [Server thread/INFO]: [ChunkHolderManager] Saved 61 block chunks, 144 entity chunks, 0 poi chunks in world 'world_nether' in 0,33s
+[01:09:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:09:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[01:09:09] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[01:09:09] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[01:09:09] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[01:09:09] [Server thread/INFO]: [ChunkHolderManager] Saved 10 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0,04s
+[01:09:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:09:09] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01:09:09] [Server thread/INFO]: Flushing Chunk IO
+[01:09:09] [Server thread/INFO]: Closing Thread Pool
+[01:09:09] [Server thread/INFO]: Closing Server
