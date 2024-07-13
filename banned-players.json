@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "uuid": "75f41576-c9ae-3be1-9e5a-f6091a7fa867",
+    "name": "123",
+    "created": "2024-07-10 13:40:09 -0700",
+    "source": "dreamonovich",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "8c3a07d2-9576-3e3e-b415-f96f91b3a4b6",
+    "name": "привет",
+    "created": "2024-07-10 13:43:06 -0700",
+    "source": "dreamonovich",
+    "expires": "forever",
+    "reason": "слава"
+  },
+  {
+    "uuid": "5b314e2f-f184-32cb-9495-d55385f89b89",
+    "name": "1233",
+    "created": "2024-07-10 13:40:40 -0700",
+    "source": "dreamonovich",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  }
+]
