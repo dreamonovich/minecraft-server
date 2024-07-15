@@ -1,138 +1,95 @@
-[11:42:56] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[11:42:59] [ServerMain/INFO]: Loaded 7 recipes
-[11:43:00] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[11:43:00] [Server thread/INFO]: Loading properties
-[11:43:00] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
-[11:43:01] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[11:43:01] [Server thread/INFO]: Using 4 threads for Netty based IO
-[11:43:01] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+[13:28:31] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[13:28:32] [ServerMain/INFO]: Loaded 7 recipes
+[13:28:33] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[13:28:33] [Server thread/WARN]: ****************************
+[13:28:33] [Server thread/WARN]: YOU ARE RUNNING THIS SERVER AS AN ADMINISTRATIVE OR ROOT USER. THIS IS NOT ADVISED.
+[13:28:33] [Server thread/WARN]: YOU ARE OPENING YOURSELF UP TO POTENTIAL RISKS WHEN DOING THIS.
+[13:28:33] [Server thread/WARN]: FOR MORE INFORMATION, SEE https://madelinemiller.dev/blog/root-minecraft-server/
+[13:28:33] [Server thread/WARN]: ****************************
+[13:28:33] [Server thread/INFO]: Loading properties
+[13:28:33] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
+[13:28:34] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[13:28:34] [Server thread/INFO]: Using 4 threads for Netty based IO
+[13:28:34] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
     We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
     For more information please visit: https://github.com/PaperMC/Paper/issues/8948
-[11:43:01] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
-[11:43:01] [Server thread/INFO]: Default game type: SURVIVAL
-[11:43:01] [Server thread/INFO]: Generating keypair
-[11:43:02] [Server thread/INFO]: Starting Minecraft server on *:25565
-[11:43:02] [Server thread/INFO]: Using epoll channel type
-[11:43:02] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[11:43:02] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[11:43:02] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.0.1
-[11:43:02] [Server thread/INFO]: [ViaVersion] ViaVersion 5.0.1 is now loaded. Registering protocol transformers and injecting...
-[11:43:03] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[11:43:03] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[11:43:04] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.2.0
-[11:43:04] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[11:43:04] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.2.0
-[11:43:04] [Server thread/INFO]: [SkinsRestorer] Renaming customGUI.enabled to gui.custom.enabled
-[11:43:04] [Server thread/INFO]: [SkinsRestorer] Renaming customGUI.showOnlyCustomGUI to gui.custom.onlyShowList
-[11:43:04] [Server thread/INFO]: [SkinsRestorer] Renaming customGUI.list to gui.custom.list
-[11:43:05] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.20.1.
-[11:43:05] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[11:43:05] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[11:43:05] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[11:43:05] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[11:43:05] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[11:43:05] [Server thread/INFO]: Preparing level "world"
-[11:43:05] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[11:43:05] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[11:43:05] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[11:43:05] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[11:43:05] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[11:43:05] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[11:43:05] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[11:43:05] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.2.0
-[11:43:05] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: c69db2b
-[11:43:05] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[11:43:05] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[11:43:05] [Folia Async Scheduler Thread #2/ERROR]: [SkinsRestorer] Error getting Eclipse UUID
-[11:43:06] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[11:43:06] [Folia Async Scheduler Thread #2/ERROR]: [SkinsRestorer] Error getting Eclipse Profile
-[11:43:07] [Server thread/INFO]: Time elapsed: 464 ms
-[11:43:07] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[11:43:07] [Server thread/INFO]: Time elapsed: 146 ms
-[11:43:07] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[11:43:07] [Server thread/INFO]: Time elapsed: 248 ms
-[11:43:07] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.0.1
-[11:43:07] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.20-1.20.1 (763)
-[11:43:07] [Server thread/INFO]: Running delayed init tasks
-[11:43:07] [Server thread/INFO]: Done (7.534s)! For help, type "help"
-[11:43:07] [Server thread/INFO]: Timings Reset
-[11:43:07] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
-[13:24:16] [Server thread/INFO]: Unknown or incomplete command, see below for error
-say<--[HERE]
-[13:24:18] [Server thread/INFO]: [Not Secure] [Server] hhh
-[13:25:23] [User Authenticator #0/INFO]: UUID of player Maver1ckPy is fa80bf82-2c88-3820-8429-047952be0875
-[13:25:24] [Server thread/INFO]: Maver1ckPy joined the game
-[13:25:24] [Server thread/INFO]: Maver1ckPy[/192.168.2.43:52334] logged in with entity id 127 at ([world]-29.69999998807907, 59.0, -2086.757622389226)
-[13:26:29] [User Authenticator #1/INFO]: UUID of player dreamonovich is 63087a6a-b56c-3779-b588-83711098d67a
-[13:26:29] [Server thread/INFO]: dreamonovich joined the game
-[13:26:29] [Server thread/INFO]: dreamonovich[/127.0.0.1:51724] logged in with entity id 501 at ([world_nether]798.2167883285872, 187.0, 1.6881573513688755)
-[13:27:44] [User Authenticator #2/INFO]: UUID of player armeni is 8e061e25-4bd2-376e-9b7b-6be83a942508
-[13:27:44] [Server thread/INFO]: armeni joined the game
-[13:27:44] [Server thread/INFO]: armeni[/127.0.0.1:54102] logged in with entity id 933 at ([world]-30.23475406779349, 67.0, -2101.471052933156)
-[13:28:42] [Server thread/INFO]: Maver1ckPy was slain by Zombified Piglin
-[13:29:27] [Server thread/INFO]: Maver1ckPy lost connection: Disconnected
-[13:29:27] [Server thread/INFO]: Maver1ckPy left the game
-[13:47:21] [Server thread/INFO]: dreamonovich was burnt to a crisp whilst fighting Ghast
-[13:53:30] [Server thread/INFO]: dreamonovich fell from a high place
-[13:53:40] [User Authenticator #3/INFO]: UUID of player Maver1ckPy is fa80bf82-2c88-3820-8429-047952be0875
-[13:53:40] [Server thread/INFO]: Maver1ckPy joined the game
-[13:53:40] [Server thread/INFO]: Maver1ckPy[/192.168.2.43:56903] logged in with entity id 7657 at ([world]-29.69999998807907, 59.0, -2087.196929196578)
-[13:55:18] [Server thread/INFO]: dreamonovich issued server command: /skin url https://s.namemc.com/i/5e5502439d6fd66a.png
-[13:55:30] [Server thread/INFO]: dreamonovich was shot by Maver1ckPy
-[13:55:47] [Server thread/INFO]: dreamonovich issued server command: /skin url https://s.namemc.com/i/5e5502439d6fd66a.png
-[13:56:08] [Server thread/INFO]: dreamonovich was slain by Maver1ckPy
-[13:57:01] [Server thread/INFO]: dreamonovich issued server command: /skin url https://s.namemc.com/i/1d240481a8b6352d.png
-[13:57:03] [Server thread/INFO]: dreamonovich was slain by Maver1ckPy
-[13:57:27] [Server thread/INFO]: Maver1ckPy was slain by dreamonovich
-[13:59:09] [Server thread/INFO]: dreamonovich issued server command: /skin url https://minecraft.novaskin.me/skin/7119553749/download
-[14:00:53] [Server thread/INFO]: Maver1ckPy was slain by dreamonovich
-[14:01:01] [Server thread/INFO]: dreamonovich was shot by armeni
-[14:02:06] [Server thread/INFO]: Maver1ckPy was slain by dreamonovich
-[14:03:57] [Server thread/INFO]: dreamonovich was slain by Maver1ckPy
-[14:05:18] [Server thread/INFO]: dreamonovich was slain by Maver1ckPy
-[14:06:01] [Server thread/INFO]: Maver1ckPy was slain by dreamonovich
-[14:07:30] [Server thread/INFO]: Maver1ckPy was slain by dreamonovich
-[14:07:42] [Server thread/INFO]: dreamonovich was slain by Maver1ckPy
-[14:08:00] [Server thread/INFO]: Maver1ckPy was slain by dreamonovich
-[14:13:16] [Server thread/INFO]: dreamonovich issued server command: /skin url https://s.namemc.com/i/61db756036041967.png
-[14:13:34] [Server thread/INFO]: dreamonovich issued server command: /skin url https://minecraft.novaskin.me/skin/7119553749/download
-[14:13:36] [Server thread/INFO]: dreamonovich was slain by Maver1ckPy
-[14:14:40] [Server thread/INFO]: Maver1ckPy was slain by dreamonovich
-[14:15:25] [Server thread/INFO]: dreamonovich drowned whilst trying to escape Maver1ckPy
-[14:15:44] [Server thread/INFO]: dreamonovich issued server command: /skin url https://s.namemc.com/i/d4fe52a876462f6b.png
-[14:16:27] [Server thread/INFO]: dreamonovich issued server command: /skin url https://s.namemc.com/i/33c53515274ab228.png
-[14:17:26] [Server thread/INFO]: dreamonovich issued server command: /skin url https://s.namemc.com/i/d4fe52a876462f6b.png
-[14:18:03] [Server thread/INFO]: Maver1ckPy lost connection: Disconnected
-[14:18:03] [Server thread/INFO]: Maver1ckPy left the game
-[14:18:05] [Server thread/INFO]: dreamonovich lost connection: Disconnected
-[14:18:05] [Server thread/INFO]: dreamonovich left the game
-[14:18:38] [Server thread/INFO]: Stopping server
-[14:18:38] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.2.0
-[14:18:38] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.0.1
-[14:18:38] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling, if this is a reload and you experience issues consider rebooting.
-[14:18:38] [Server thread/INFO]: Saving players
-[14:18:38] [Server thread/INFO]: armeni lost connection: Server closed
-[14:18:38] [Server thread/INFO]: armeni left the game
-[14:18:38] [Server thread/INFO]: Saving worlds
-[14:18:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[14:18:38] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[14:18:38] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[14:18:38] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[14:18:38] [Server thread/INFO]: [ChunkHolderManager] Saved 48 block chunks, 280 entity chunks, 0 poi chunks in world 'world' in 0.15s
-[14:18:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[14:18:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[14:18:38] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[14:18:38] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[14:18:38] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[14:18:38] [Server thread/INFO]: [ChunkHolderManager] Saved 59 block chunks, 120 entity chunks, 0 poi chunks in world 'world_nether' in 0.07s
-[14:18:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[14:18:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[14:18:38] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[14:18:38] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[14:18:38] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[14:18:38] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 39 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
-[14:18:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[14:18:38] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[14:18:38] [Server thread/INFO]: Flushing Chunk IO
-[14:18:38] [Server thread/INFO]: Closing Thread Pool
-[14:18:38] [Server thread/INFO]: Closing Server
+[13:28:34] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[13:28:34] [Server thread/INFO]: Default game type: SURVIVAL
+[13:28:34] [Server thread/INFO]: Generating keypair
+[13:28:34] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:28:34] [Server thread/INFO]: Using epoll channel type
+[13:28:34] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[13:28:34] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
+[13:28:35] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.0.1
+[13:28:35] [Server thread/INFO]: [ViaVersion] ViaVersion 5.0.1 is now loaded. Registering protocol transformers and injecting...
+[13:28:35] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[13:28:35] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[13:28:35] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.2.0
+[13:28:35] [Server thread/INFO]: [GSit] Loading server plugin GSit v1.9.5
+[13:28:36] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[13:28:36] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.2.0
+[13:28:36] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.20.1.
+[13:28:36] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[13:28:36] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13:28:36] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[13:28:36] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13:28:36] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[13:28:36] [Server thread/INFO]: Preparing level "world"
+[13:28:37] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[13:28:37] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[13:28:37] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[13:28:37] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[13:28:37] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[13:28:37] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[13:28:37] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[13:28:37] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.2.0
+[13:28:37] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: c69db2b
+[13:28:37] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[13:28:37] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[13:28:37] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:28:37] [Server thread/INFO]: Time elapsed: 293 ms
+[13:28:37] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[13:28:37] [Server thread/INFO]: Time elapsed: 68 ms
+[13:28:37] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[13:28:37] [Server thread/INFO]: Time elapsed: 48 ms
+[13:28:37] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.0.1
+[13:28:37] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.20-1.20.1 (763)
+[13:28:37] [Server thread/INFO]: [GSit] Enabling GSit v1.9.5
+[13:28:38] [Server thread/INFO]: [GSit] The plugin was successfully enabled.
+[13:28:38] [Server thread/INFO]: [GSit] Link with ViaVersion successful!
+[13:28:38] [Server thread/INFO]: Running delayed init tasks
+[13:28:38] [Server thread/INFO]: Done (4.977s)! For help, type "help"
+[13:28:38] [Server thread/INFO]: Timings Reset
+[13:28:38] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[13:28:38] [Folia Async Scheduler Thread #2/ERROR]: [SkinsRestorer] Error getting Eclipse Profile
+[13:33:36] [Server thread/INFO]: [STDOUT] [org.spigotmc.RestartCommand] Startup script './start.sh' does not exist! Stopping server.
+[13:33:37] [Server thread/INFO]: Stopping server
+[13:33:37] [Server thread/INFO]: [GSit] Disabling GSit v1.9.5
+[13:33:37] [Server thread/INFO]: [GSit] The plugin was successfully disabled.
+[13:33:37] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.2.0
+[13:33:37] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.0.1
+[13:33:37] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling, if this is a reload and you experience issues consider rebooting.
+[13:33:37] [Server thread/INFO]: Saving players
+[13:33:37] [Server thread/INFO]: Saving worlds
+[13:33:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[13:33:37] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[13:33:37] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[13:33:37] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[13:33:38] [Server thread/INFO]: [ChunkHolderManager] Saved 529 block chunks, 529 entity chunks, 0 poi chunks in world 'world' in 0,89s
+[13:33:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:33:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[13:33:38] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[13:33:38] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[13:33:38] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[13:33:38] [Server thread/INFO]: [ChunkHolderManager] Saved 529 block chunks, 529 entity chunks, 0 poi chunks in world 'world_nether' in 0,49s
+[13:33:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:33:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[13:33:38] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[13:33:38] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[13:33:38] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[13:33:38] [Server thread/INFO]: [ChunkHolderManager] Saved 529 block chunks, 529 entity chunks, 0 poi chunks in world 'world_the_end' in 0,19s
+[13:33:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:33:39] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[13:33:39] [Server thread/INFO]: Flushing Chunk IO
+[13:33:39] [Server thread/INFO]: Closing Thread Pool
+[13:33:39] [Server thread/INFO]: Closing Server

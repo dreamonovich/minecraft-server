@@ -1,0 +1,4 @@
+#!/bin/bash
+cd /home/drm/Downloads/Minecraft-server/
+alacritty --command playit &
+java -jar server.jar --nogui
