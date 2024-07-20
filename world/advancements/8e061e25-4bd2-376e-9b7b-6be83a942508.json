@@ -3366,6 +3366,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2024-07-17 19:12:58 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2024-07-17 19:12:58 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2024-07-17 19:26:01 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2024-07-17 19:26:01 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
     "criteria": {
       "has_iron_ore": "2024-07-17 21:24:44 +0300"
@@ -3378,27 +3402,63 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/brick": {
+  "minecraft:story/enchant_item": {
     "criteria": {
-      "has_clay_ball": "2024-07-17 19:12:58 +0300"
+      "enchanted_item": "2024-07-19 15:58:36 +0300"
     },
     "done": true
   },
-  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
+  "minecraft:recipes/building_blocks/dye_red_bed": {
     "criteria": {
-      "has_coal_ore": "2024-07-17 19:26:01 +0300"
+      "has_needed_dye": "2024-07-19 17:36:20 +0300"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/clay": {
+  "minecraft:recipes/building_blocks/dye_red_wool": {
     "criteria": {
-      "has_clay_ball": "2024-07-17 19:12:58 +0300"
+      "has_needed_dye": "2024-07-19 17:36:20 +0300"
     },
     "done": true
   },
-  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
+  "minecraft:recipes/decorations/red_candle": {
     "criteria": {
-      "has_coal_ore": "2024-07-17 19:26:01 +0300"
+      "has_red_dye": "2024-07-19 17:36:20 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-07-19 17:36:20 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2024-07-19 18:42:28 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-07-19 18:59:02 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-07-19 18:59:02 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2024-07-19 19:06:11 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2024-07-19 19:06:11 +0300"
     },
     "done": true
   },
